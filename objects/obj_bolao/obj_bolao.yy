@@ -1,0 +1,42 @@
+{
+  "spriteId": {
+    "name": "spr_bolao",
+    "path": "sprites/spr_bolao/spr_bolao.yy",
+  },
+  "solid": false,
+  "visible": true,
+  "spriteMaskId": null,
+  "persistent": false,
+  "parentObjectId": {
+    "name": "obj_bola_base",
+    "path": "objects/obj_bola_base/obj_bola_base.yy",
+  },
+  "physicsObject": true,
+  "physicsSensor": false,
+  "physicsShape": 0,
+  "physicsGroup": 1,
+  "physicsDensity": 1.0,
+  "physicsRestitution": 1.0,
+  "physicsLinearDamping": 1.0,
+  "physicsAngularDamping": 1.0,
+  "physicsFriction": 2.0,
+  "physicsStartAwake": true,
+  "physicsKinematic": false,
+  "physicsShapePoints": [
+    {"x":21.0,"y":21.0,},
+    {"x":21.0,"y":21.0,},
+  ],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_bolao","path":"objects/obj_bolao/obj_bolao.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
+  "properties": [],
+  "overriddenProperties": [],
+  "parent": {
+    "name": "Bolas",
+    "path": "folders/Objects/Bolas.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "obj_bolao",
+  "tags": [],
+  "resourceType": "GMObject",
+}
