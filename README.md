@@ -5,3 +5,6 @@ A força da tacada, é proporcional ao tamanho do taco.
 
 ## Adicionado Sinuquinha.zip 
 Basta descompactar e executar (para windows)
+
+##Ferramenta utilizada para compilar
+Game Maker Studio V. 2.3
